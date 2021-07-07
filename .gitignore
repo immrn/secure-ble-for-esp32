@@ -1,0 +1,14 @@
+# ESP
+esp/server/build/**
+esp/server/spiffs_image/**/*.key
+esp/server/spiffs_image/**/*.crt
+
+esp/client/build/**
+esp/client/spiffs_image/**/*.key
+esp/client/spiffs_image/**/*.crt
+
+# Editors
+.vscode
+
+# Certificates and keys
+certs/**
